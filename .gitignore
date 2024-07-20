@@ -1,0 +1,15 @@
+/conf.d
+/fastcgi.conf
+/fastcgi_params
+/koi-utf
+/koi-win
+/mime.types
+/modules-available
+/modules-enabled
+/proxy_params
+/scgi_params
+/sites-available
+/sites-enabled
+/snippets
+/uwsgi_params
+/win-utf
